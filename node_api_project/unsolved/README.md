@@ -8,7 +8,7 @@ You will need to research how to implement each of these api's from npm into you
 
 ## Instructions
 
-Run 'npm init' to install of the modules from npm into your project
+Run 'npm install' to install of the modules from npm into your project
 
 * API Instructions
   * Geocoder
