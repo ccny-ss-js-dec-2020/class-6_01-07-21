@@ -39,7 +39,7 @@ Run 'npm install' to install of the modules from npm into your project
     * node
     * ```<File Name>```
     * yelp
-  * You will be using the 'inquirer' & the 'twitter-fusion' npm modules
+  * You will be using the 'inquirer' & the 'yelp-fusion' npm modules
 
 After the command is entered, parse information from the api in neat and organized console.logs</br>
 
