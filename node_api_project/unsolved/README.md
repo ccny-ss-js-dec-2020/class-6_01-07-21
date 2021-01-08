@@ -47,6 +47,7 @@ After the command is entered, parse information from the api in neat and organiz
 * Export/import each different api as a function from another .js file</br>
 * Write these items to a text file in a nice format (You can export this function and import it into each API .js file)</br>
 * Make sure to append to the text file and not overwrrite it after every write.
+* Error Handling
 
 ## Advice
 * Remember to go one step at a time. Think of each single task as a step. Finish that step and then move onto the next step. If you want, list out the instructions/steps in your head and get an understanding how you're going to approach the app before starting to develop the application.
