@@ -49,5 +49,19 @@ After the command is entered, parse information from the api in neat and organiz
 * Make sure to append to the text file and not overwrrite it after every write.
 * Error Handling
 
+## Directory Files
+- node_api_project_solved
+  - .gitignore
+  - node_modules/
+  - app.js
+  - app.txt
+  - file_read_and_write.js
+  - geocoder.js
+  - package-lock.json
+  - package.json
+  - README.md
+  - yelp.js
+  - youtube.js
+
 ## Advice
 * Remember to go one step at a time. Think of each single task as a step. Finish that step and then move onto the next step. If you want, list out the instructions/steps in your head and get an understanding how you're going to approach the app before starting to develop the application.
