@@ -1,0 +1,863 @@
+-------------Yelp Search Result 1-----------
+Name: Aiello's of Brooklyn
+Rating: 4.5
+Price: undefined
+Phone: +17328514871
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Aiello's of Brooklyn
+Rating: 4.5
+Price: undefined
+Phone: +17328514871
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Sal's Gourmet Pizza & Pasta
+Rating: 4
+Price: $
+Phone: +17329721477
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Brooklyn Square Manalapan
+Rating: 3.5
+Price: $
+Phone: +17328517599
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Capri Wood Fired Pizza & Trattoria
+Rating: 4
+Price: $$
+Phone: +17324146995
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Romeo's
+Rating: 4.5
+Price: $$
+Phone: +17323080933
+Closed Right Now: No
+
+-------------Yelp Search Result 6-----------
+Name: Federici's Family Restaurant
+Rating: 4
+Price: $$
+Phone: +17324621312
+Closed Right Now: No
+
+-------------Yelp Search Result 7-----------
+Name: Mezza Luna
+Rating: 4
+Price: $$
+Phone: +17325360207
+Closed Right Now: No
+
+-------------Yelp Search Result 8-----------
+Name: Blaze Pizza
+Rating: 4
+Price: undefined
+Phone: +17323388611
+Closed Right Now: No
+
+-------------Yelp Search Result 9-----------
+Name: Coal Fired Pizza
+Rating: 3.5
+Price: $$
+Phone: +17326773220
+Closed Right Now: No
+
+-------------Yelp Search Result 10-----------
+Name: Amano Pizza
+Rating: 5
+Price: undefined
+Phone: +17329706992
+Closed Right Now: No
+
+-------------Yelp Search Result 11-----------
+Name: Attilios Pizzeria
+Rating: 4
+Price: $
+Phone: +17324622303
+Closed Right Now: No
+
+-------------Yelp Search Result 12-----------
+Name: Emilio's Restaurant & Pizzeria
+Rating: 3.5
+Price: $$
+Phone: +17329726162
+Closed Right Now: No
+
+-------------Yelp Search Result 13-----------
+Name: Dusal's Italian Restaurant
+Rating: 4
+Price: $$
+Phone: +17324310004
+Closed Right Now: No
+
+-------------Yelp Search Result 14-----------
+Name: Romeo's Pizza
+Rating: 3.5
+Price: $
+Phone: +17323089100
+Closed Right Now: No
+
+-------------Yelp Search Result 15-----------
+Name: Krispy Pizza - Freehold
+Rating: 4
+Price: $
+Phone: +17323030081
+Closed Right Now: No
+
+-------------Yelp Search Result 16-----------
+Name: Dusal's Pizza and Italian Restaurant
+Rating: 4
+Price: $
+Phone: +17325364089
+Closed Right Now: No
+
+-------------Yelp Search Result 17-----------
+Name: Cucina Alessi Italian Ristorante & Pizza
+Rating: 2.5
+Price: $$
+Phone: +17328450905
+Closed Right Now: No
+
+-------------Yelp Search Result 18-----------
+Name: Brooklyn Pizza of Freehold Raceway Mall
+Rating: 5
+Price: undefined
+Phone: +17324142955
+Closed Right Now: No
+
+-------------Yelp Search Result 19-----------
+Name: Village Maria Pizza
+Rating: 5
+Price: undefined
+Phone: +17325771677
+Closed Right Now: No
+
+-------------Yelp Search Result 20-----------
+Name: Ristorante Maietta
+Rating: 4
+Price: $$
+Phone: +17324467387
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Aarzu Modern Indian Bistro
+Rating: 4.5
+Price: $$
+Phone: +17323330933
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: The Chozhas
+Rating: 4.5
+Price: $$
+Phone: +18482339412
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Sawan Indian Cuisine
+Rating: 4.5
+Price: $$
+Phone: +17328517878
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Tandoor
+Rating: 4.5
+Price: undefined
+Phone: +17326177860
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Persis Indian Grill
+Rating: 4.5
+Price: $$
+Phone: +16099189010
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Aiello's of Brooklyn
+Rating: 4.5
+Price: undefined
+Phone: +17328514871
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Sal's Gourmet Pizza & Pasta
+Rating: 4
+Price: $
+Phone: +17329721477
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Brooklyn Square Manalapan
+Rating: 3.5
+Price: $
+Phone: +17328517599
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Capri Wood Fired Pizza & Trattoria
+Rating: 4
+Price: $$
+Phone: +17324146995
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Romeo's
+Rating: 4.5
+Price: $$
+Phone: +17323080933
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Razza Pizza Artigianale
+Rating: 4
+Price: $$
+Phone: +12013569348
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: &pizza - Jersey City
+Rating: 4.5
+Price: undefined
+Phone: +12025587549
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Jimmy's Brooklyn Pizza & Deli
+Rating: 4.5
+Price: undefined
+Phone: +12014024500
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Renato's Pizza Masters
+Rating: 4
+Price: $$
+Phone: +12016592232
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Ita Italian Kitchen
+Rating: 4.5
+Price: $$
+Phone: +12014358380
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Prince Street Pizza
+Rating: 4.5
+Price: $
+Phone: +12129664100
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Juliana's Pizza
+Rating: 4.5
+Price: $$
+Phone: +17185966700
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Lombardi's Pizza
+Rating: 4
+Price: $$
+Phone: +12129417994
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: L'industrie Pizzeria
+Rating: 4.5
+Price: $
+Phone: +17185990002
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Paulie Gee's
+Rating: 4.5
+Price: $$
+Phone: +13479873747
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Clove Garden of India
+Rating: 4.5
+Price: undefined
+Phone: +12015338309
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Swadist Restaurant
+Rating: 4.5
+Price: $$
+Phone: +12017215152
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Brick Lane Curry House
+Rating: 5
+Price: undefined
+Phone: +12018307298
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Karma Kafe
+Rating: 4
+Price: $$
+Phone: +12016100900
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Korai Kitchen
+Rating: 5
+Price: $$
+Phone: +12017216566
+Closed Right Now: No
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=siibbF9J2gs
+Title: 2018 World Cup All Goals (From First to Last) English Commentary
+Description: SUBSCRIBE AND TURN ON YOUR ON YOUR NOTIFICATIONS! Behance: https://www.behance.net/al7nd Timestamps: 0:00 Group Stage 10:33 Round of 16 ...
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/watch?v=GrsEAvRerTg
+Title: 2018 WORLD CUP FINAL: France 4-2 Croatia
+Description: France became World Champions for the second time after defeating Croatia 4-2 in Moscow! A fitting end to a great tournament - thanks for sharing it with us!
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/playlist?list=PLxNkbtbKnD_IIjFpeGqk7tSJM12M0LVd4
+Title: FIFA WORLD CUP 2018 MATCH HIGHLIGHTS (ALL 64 MATCHES)
+Description: 
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/watch?v=Vw34wMAqWzc
+Title: TOP 10 GOALS | 2018 FIFA World Cup Russia
+Description: THIS SELECTION WAS VOTED FOR BY YOU THE FANS!** The vote on fifa.com has concluded that these were your favourite 10 goals of the 2018 FIFA World ...
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/watch?v=MiAcU2DvbXM
+Title: 2018 FIFA World Cup | The Official Film
+Description: The 2018 FIFA World Cup Russia™ thrilled from beginning to end. The 21st edition of the world finals also produced countless moments that will endure in the ...
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/watch?v=4rp2aLQl7vg
+Title: Portugal v Spain - 2018 FIFA World Cup Russia™ - MATCH 3
+Description: Cristiano Ronaldo stole the show with a spectacular hat-trick to ensure that Portugal and Spain shared the spoils in Match 3 of the FIFA World Cup. More match ...
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/watch?v=_cDSZgoPLdc
+Title: France vs Argentina 4-3 | 2018 FIFA World Cup Russia
+Description: France vs Argentina 4-3 extended highlights 2018 FIFA World Cup Russia Portugal vs Spain 3-3 - https://youtu.be/cVzvHfuCFCk Chelsea vs Man City 2-1 ...
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/watch?v=6BSeFs40QOI
+Title: Germany v Mexico - 2018 FIFA World Cup Russia™ - Match 11
+Description: Hirving Lozano's goal secured a famous victory for Mexico over reigning champions Germany. More match highlights: ...
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=bAD2UDkRdo8
+Title: 2018 FIFA World Cup Montage | &quot;Magic in the Air&quot;
+Description: I made this 2018 FIFA World Cup closing montage in honor of all the best moments from Russia. Every game from the tournament is represented in this video.
+
+-------------Youtube Search Result 10 ---------------
+Link: https://www.youtube.com/watch?v=BJTzPTC-yR0
+Title: World Cup 2018 Commentary ● Peter Drury ●  The Football Poet ● Wavin&#39; Flag
+Description: WorldCup #WorldCup2018 #PeterDrury.
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=J9HbNO3IrzI
+Title: World Cup 2006 All Goals
+Description: All goals scored in the world cup 2006 in Germany with english commentary.
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/watch?v=XWLxUAOYku4
+Title: World Cup 2006 || Best Moments || Hips Don´t Lie || ᴴᴰ
+Description: If you like my job, you can support me in PayPal Donate ▻https://paypal.me/jhonnyrguezfootball ◅ STAY UPDATED AND TURN ON NOTIFICATIONS ...
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/watch?v=Nlsm0RlC8zI
+Title: 2006 WORLD CUP FINAL: Italy 1-1 France
+Description: All the highlights from the famous Final at the 2006 FIFA World Cup Germany™, which featured the dramatic Zinedine Zidane headbutt and penalty shootout.
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/playlist?list=PLT06sq1kVL4sph0CXopkrMo8DhqGCUNSO
+Title: All Matches and Goals - 2006 FIFA World Cup Germany™
+Description: 2006 FIFA World Cup Germany™ All Goals. Highlights of matches with Matches with Blank Scores. #WorldCupGoals #FIFAWorldCup #AllMatches #HD All ...
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/watch?v=FcvJDKlF9_s
+Title: ITALY ● Road to the World Cup Victory - 2006
+Description: In 2006 Italy won the World Cup. They won six of their games and drew just a single game. The Italian defence concided just two goals. They had players like ...
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/watch?v=nELaL14ms7A
+Title: Italy v France (Germany 2006) | FIFA World Cup | Full Match
+Description: Relive the full match of Italy v France from the 2006 FIFA World Cup Germany Final. Subscribe for the latest original content: ...
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/watch?v=qgL-Y5JOohs
+Title: France vs Spain 3-1 - World Cup 2006 - Full Highlights (English Commentary) HD
+Description: France vs Spain 3-1 with english commentary.
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/watch?v=9JQ0B0t6Di0
+Title: World Cup 2006 in Germany. All Goals HD.
+Description: The 2006 FIFA World Cup was the 18th FIFA World Cup, the quadrennial international football world championship tournament. It was held from 9 June to 9 July ...
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=xh-yANwjcR0
+Title: #WorldCupAtHome | Argentina 2-1 Mexico [Extended Highlights] | 2006 FIFA World Cup™
+Description: Watch extended highlights of the dramatic Round of 16 contest between Argentina and Mexico at the 2006 FIFA World Cup Germany™. #WorldCupAtHome ...
+
+-------------Youtube Search Result 10 ---------------
+Link: https://www.youtube.com/watch?v=rJ3t3o3lN2M
+Title: Portugal 3 1 England 2006 World Cup Quarter Finals All goals &amp; Highlights FHD 1080P
+Description: https://iwesco.com/2019/11/25/der-streaming-anbieter-dazn-im-test/ If you don't want to miss a good quality highlight, please subscribe now!
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=WQnAxOQxQIU
+Title: Savage Garden - Truly Madly Deeply (Official Video)
+Description: Savage Garden's official music video for 'Truly Madly Deeply'. Click to listen to Savage Garden on Spotify: http://smarturl.it/SGSpot?IQid=SGTMD As featured on ...
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/watch?v=ZkQQU_U48WU
+Title: Truly, Madly, Deeply - Savage Garden With Lyrics
+Description: thanks for watching :) 200000 views - December 27th 2009. 100000 views - October 16th 2009. I'll be your dream I'll be your wish I'll be your fantasy I'll be your ...
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/watch?v=ruAF71UVMTc
+Title: Hooligans singing Savage garden - Truly madly deeply °Original°
+Description: Grupppe von englischen Hooligans singt das LIed "savage garden - Truly madly deeply" für die Sportmarke "PUMA" Text: I'll be your dream I'll be your wish I'll ...
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/watch?v=PB5_2-GXYyU
+Title: One Direction - Truly Madly Deeply (Audio)
+Description: Music video by One Direction performing Truly Madly Deeply (Audio). (C) 2020 Simco Limited under exclusive license to Sony Music Entertainment UK Limited ...
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/watch?v=-5EMaf-BXhA
+Title: One Direction - Truly, Madly, Deeply
+Description: "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, ...
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/watch?v=hBwnnaznX9I
+Title: Savage Garden - Truly Madly Deeply
+Description: Song with lyrics and pics.
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/watch?v=jBVifG4_Ruk
+Title: Savage Garden - Truly Madly Deeply (Audio)
+Description: "Truly Madly Deeply" by Savage Garden Listen to Savage Garden: https://SavageGarden.lnk.to/listenYD Subscribe to the official Savage Garden YouTube ...
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/watch?v=jM2JYRsQIuE
+Title: Truly Madly Deeply
+Description: Provided to YouTube by The Orchard Enterprises Truly Madly Deeply · Cascada Everytime We Touch ℗ 2006 Robbins Entertainment LLC Released on: ...
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=4qAzO8FbHn4
+Title: Truly Madly Deeply - Yoke Lore
+Description: 
+
+-------------Youtube Search Result 10 ---------------
+Link: https://www.youtube.com/watch?v=L2h1bbgjc5E
+Title: Savage Garden - Truly Madly Deeply - Subtitulos Español
+Description: Savage Garden - Truly Madly Deeply - Subtitulos Español #savagegarden #trulymadlydeeply #truly #deeply #deeply 7 MILLONES DE GRACIAS! gracias a ...
+
+
+-------------Geocoder Search Result-----------
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Latitude: 48.856614, Longitude: 2.3522219
+
+-------------Geocoder Search Result-----------
+Latitude: 36.3020023, Longitude: -88.32671069999999
+
+-------------Yelp Search Result 1-----------
+Name: Kafana
+Rating: 4
+Price: $$
+Phone: +12123538000
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: 27 Morton
+Rating: 4.5
+Price: $$
+Phone: +12129294339
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: ÇKA KA QËLLU
+Rating: 4.5
+Price: $$
+Phone: +17189336194
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Burek King
+Rating: 4.5
+Price: undefined
+Phone: +19735139050
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Ukus
+Rating: 4
+Price: $$
+Phone: +17182678587
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: &pizza - Jersey City
+Rating: 4.5
+Price: undefined
+Phone: +12025587549
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Razza Pizza Artigianale
+Rating: 4
+Price: $$
+Phone: +12013569348
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Jimmy's Brooklyn Pizza & Deli
+Rating: 4.5
+Price: undefined
+Phone: +12014024500
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Renato's Pizza Masters
+Rating: 4
+Price: $$
+Phone: +12016592232
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Ita Italian Kitchen
+Rating: 4.5
+Price: $$
+Phone: +12014358380
+Closed Right Now: No
+
+
+-------------Yelp Search Result 1-----------
+Name: Chick-fil-A
+Rating: 4
+Price: $
+Phone: +12127049920
+Closed Right Now: No
+
+-------------Yelp Search Result 2-----------
+Name: Wah Fung No 1
+Rating: 4.5
+Price: $
+Phone: +12129255175
+Closed Right Now: No
+
+-------------Yelp Search Result 3-----------
+Name: Jollibee
+Rating: 4
+Price: $$
+Phone: +12129942711
+Closed Right Now: No
+
+-------------Yelp Search Result 4-----------
+Name: Jollibee
+Rating: 3.5
+Price: $
+Phone: +17184264445
+Closed Right Now: No
+
+-------------Yelp Search Result 5-----------
+Name: Chicken Insider
+Rating: 5
+Price: undefined
+Phone: +16468640034
+Closed Right Now: No
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=WyF8RHM1OCg
+Title: Whitesnake - Here I Go Again &#39;87 (Official Music Video)
+Description: You're watching the official music video for Whitesnake - "Here I Go Again '87" from the album 'Whitesnake'. "Here I Go Again" reached No. 1 on the Billboard ...
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/watch?v=oohFGOmcxuo
+Title: Here I Go Again-Lyrics-Whitesnake
+Description: Here I Go Again by Whitesnake with lyrics. Please rate and subscribe. Check out my comedy channel!
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/watch?v=-h7TvJL-QxE
+Title: Here I Go Again (1987 Version) (2017 Remaster)
+Description: Provided to YouTube by Rhino Here I Go Again (1987 Version) (2017 Remaster) · Whitesnake Whitesnake ℗ 1987, 2017 Saltburn, LLC, under exclusive license ...
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/watch?v=Px58y6wI3rE
+Title: Here I Go Again
+Description: Provided to YouTube by Rhino Atlantic Here I Go Again · Glenn Jones Here I Go Again ℗ 1992 Atlantic Recording Corporation for the United States and WEA ...
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/watch?v=IDvQ7HC-sB8
+Title: Force MD&#39;s - Here I Go Again (Official Music Video)
+Description: Download/Stream - https://tommyboy.lnk.to/ForceMDs_GreatestHits Follow Our Official Spotify Playlist: https://tommyboy.lnk.to/PlaylistSpotify Listen to More ...
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/watch?v=4D6V8KXJSNQ
+Title: Here I Go Again
+Description: Provided to YouTube by Sony Music Entertainment Here I Go Again · Casting Crowns Casting Crowns ℗ 2003 Reunion Records, Inc. Composer, Lyricist: Mark ...
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/watch?v=TkkAN99VstE
+Title: Here I Go Again
+Description: Provided to YouTube by Universal Music Group Here I Go Again · Rihanna · J-Status Music Of The Sun ℗ 2005 Def Jam Recordings, a division of UMG ...
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/watch?v=u2VhwVLkQjY
+Title: Whitesnake - Here I Go Again 2004 Live Video
+Description: Whitesnake - Here I Go Again (Album Saints & Sinners 1982) "Live in The Still of The Night" Concert at the Hammersmith Apollo in London 2004 David ...
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=DSlSaGcc0QM
+Title: Whitesnake - Here I Go Again (Official Music Video)
+Description: You're watching the official music video for Whitesnake - "Here I Go Again" from the album 'Saints & Sinners' (1982). "Here I Go Again" reached No. 1 on the ...
+
+-------------Youtube Search Result 10 ---------------
+Link: https://www.youtube.com/watch?v=6_Vi4KY-ius
+Title: Force MD&#39;s - Here I Go Again
+Description: Download/Stream: http://smarturl.it/ForceMDsGreatestHits Enjoy the lyrics. Let us know about corrections in the comments! Lyrics: Can't understand The way that ...
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=zSklBj-lj5I
+Title: South African Fortnite Streamer||100 Sub Goal||#FortniteAfricanServers
+Description: Hi, my name is Luke and I am 15 years old. I am trying to reach 100 subscribers by the end of the year! Go check out my montage: https://youtu.be/llgLN2Y4hh4 ...
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=zSklBj-lj5I
+Title: South African Fortnite Streamer||100 Sub Goal||#FortniteAfricanServers
+Description: Hi, my name is Luke and I am 15 years old. I am trying to reach 100 subscribers by the end of the year! Go check out my montage: https://youtu.be/llgLN2Y4hh4 ...
+
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/watch?v=WyF8RHM1OCg
+Title: Whitesnake - Here I Go Again &#39;87 (Official Music Video)
+Description: You're watching the official music video for Whitesnake - "Here I Go Again '87" from the album 'Whitesnake'. "Here I Go Again" reached No. 1 on the Billboard ...
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/watch?v=oohFGOmcxuo
+Title: Here I Go Again-Lyrics-Whitesnake
+Description: Here I Go Again by Whitesnake with lyrics. Please rate and subscribe. Check out my comedy channel!
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/watch?v=-h7TvJL-QxE
+Title: Here I Go Again (1987 Version) (2017 Remaster)
+Description: Provided to YouTube by Rhino Here I Go Again (1987 Version) (2017 Remaster) · Whitesnake Whitesnake ℗ 1987, 2017 Saltburn, LLC, under exclusive license ...
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/watch?v=Px58y6wI3rE
+Title: Here I Go Again
+Description: Provided to YouTube by Rhino Atlantic Here I Go Again · Glenn Jones Here I Go Again ℗ 1992 Atlantic Recording Corporation for the United States and WEA ...
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/watch?v=IDvQ7HC-sB8
+Title: Force MD&#39;s - Here I Go Again (Official Music Video)
+Description: Download/Stream - https://tommyboy.lnk.to/ForceMDs_GreatestHits Follow Our Official Spotify Playlist: https://tommyboy.lnk.to/PlaylistSpotify Listen to More ...
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/watch?v=4D6V8KXJSNQ
+Title: Here I Go Again
+Description: Provided to YouTube by Sony Music Entertainment Here I Go Again · Casting Crowns Casting Crowns ℗ 2003 Reunion Records, Inc. Composer, Lyricist: Mark ...
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/watch?v=TkkAN99VstE
+Title: Here I Go Again
+Description: Provided to YouTube by Universal Music Group Here I Go Again · Rihanna · J-Status Music Of The Sun ℗ 2005 Def Jam Recordings, a division of UMG ...
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/watch?v=u2VhwVLkQjY
+Title: Whitesnake - Here I Go Again 2004 Live Video
+Description: Whitesnake - Here I Go Again (Album Saints & Sinners 1982) "Live in The Still of The Night" Concert at the Hammersmith Apollo in London 2004 David ...
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=DSlSaGcc0QM
+Title: Whitesnake - Here I Go Again (Official Music Video)
+Description: You're watching the official music video for Whitesnake - "Here I Go Again" from the album 'Saints & Sinners' (1982). "Here I Go Again" reached No. 1 on the ...
+
+-------------Youtube Search Result 10 ---------------
+Link: https://www.youtube.com/watch?v=6_Vi4KY-ius
+Title: Force MD&#39;s - Here I Go Again
+Description: Download/Stream: http://smarturl.it/ForceMDsGreatestHits Enjoy the lyrics. Let us know about corrections in the comments! Lyrics: Can't understand The way that ...
+
+
+-------------Geocoder Search Result-----------
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Country: Fulton County
+Latitude: 33.7489954, Longitude: -84.3879824
+
+-------------Geocoder Search Result-----------
+Zip Code: 07302
+Country: Hudson County
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Zip Code: 07302
+County: Hudson County
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+County: Monmouth County
+Latitude: 40.2859203, Longitude: -74.348582
+
+-------------Geocoder Search Result-----------
+County: Hudson County
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+Zip Code: 07726
+County: Monmouth County
+Latitude: 40.2800274, Longitude: -74.347017
+
+-------------Geocoder Search Result-----------
+County: Paris
+Latitude: 48.856614, Longitude: 2.3522219
+
+-------------Geocoder Search Result-----------
+City/County: Paris
+Country: Île-de-France
+Latitude: 48.856614, Longitude: 2.3522219
+
+-------------Geocoder Search Result-----------
+City/County: Greater London
+Country: England
+Latitude: 51.5073509, Longitude: -0.1277583
+
+-------------Geocoder Search Result-----------
+Latitude: 46.818188, Longitude: 8.227511999999999
+
+-------------Geocoder Search Result-----------
+Latitude: 46.818188, Longitude: 8.227511999999999
+
+-------------Geocoder Search Result-----------
+City/County: Henry County
+Country: Tennessee
+Zip Code: 38242
+Latitude: 36.3020023, Longitude: -88.32671069999999
+
+-------------Geocoder Search Result-----------
+City/County: Paris
+Country: Île-de-France
+Latitude: 48.856614, Longitude: 2.3522219
+
+-------------Youtube Search Result 1 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhv0Uk7weGCZR0QsrCMMsxgO
+Title: Dina7nsm inyhjhhhhhhjjjjjjjjjjjjjjjjjjjjjkkkiiii.
+Description: 
+
+-------------Youtube Search Result 2 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhuq_hRqTRL4O_wKUUIdws7t
+Title: O
+Description: 
+
+-------------Youtube Search Result 3 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhtYms9TlvXapZ7cAxM5FySq
+Title: Iiiiii
+Description: 
+
+-------------Youtube Search Result 4 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhttDV0eK-x5K6m0um4r7A8i
+Title: Io
+Description: 
+
+-------------Youtube Search Result 5 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhv_Gixf3BczXwUS-Fx0cwy_
+Title: Dina7nsm@gmail.com
+Description: 
+
+-------------Youtube Search Result 6 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhsvDSVm1lcPo-ZPjXNa38MM
+Title: P
+Description: 
+
+-------------Youtube Search Result 7 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUht4KGCf_nLEvlWppVH6QX8Z
+Title: Fccc
+Description: 
+
+-------------Youtube Search Result 8 ---------------
+Link: https://www.youtube.com/playlist?list=PLcM6AqfpeUhvZUBrJMDlUm39tEC2gk_eq
+Title: Ixlkfmvb .
+Description: 
+
+-------------Youtube Search Result 9 ---------------
+Link: https://www.youtube.com/watch?v=hbdWBJsGHzM
+Title: Tolbooth Talks with Dr. Murray Cook
+Description: We are proud to present the first of our brand new series of Tolbooth Talks with Stirling's Archaeologist and published author, Dr. Murray Cook 'From Blind Harry ...
+
+
+-------------Geocoder Search Result-----------
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7177545, Longitude: -74.0431435
+
+-------------Geocoder Search Result-----------
+Zip Code: 07302
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Zip Code: 07302
+City/County: Hudson County
+Country: New Jersey
+Latitude: 40.7218318, Longitude: -74.0447003
+
+-------------Geocoder Search Result-----------
+Zip Code: 08816
+City/County: Middlesex County
+Country: New Jersey
+Latitude: 40.4333407, Longitude: -74.41152459999999
